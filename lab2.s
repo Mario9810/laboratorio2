@@ -1,3 +1,5 @@
+// Mario Sarmientos 17
+// Fernando José Garavito Ovando 18071
 .global main 
 .func main 
 
