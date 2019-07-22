@@ -21,7 +21,7 @@ asignacion:
 	VLDR S28, [R9,#12]
     VLDR S29, [R9,#16]
 
-lenstride:
+corrida:
 
 	VMRS R3, FPSCR		
 	MOV R4,  #0b11011	
